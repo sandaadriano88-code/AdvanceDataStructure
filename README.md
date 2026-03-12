@@ -1,2 +1,2 @@
-# AdvanceDataStructure
+# AdvancedDataStructure
 submit assignments
